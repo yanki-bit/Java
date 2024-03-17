@@ -19,5 +19,3 @@ public class InterfaceExample implements WaterBottleInterface {
 	}
 
 }
-
-/
